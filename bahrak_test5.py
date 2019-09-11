@@ -1,16 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 19 09:43:44 2019
 
-@author: MSI
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 18 14:04:55 2019
-
-@author: MSI
-"""
 
 import numpy as np
 import tensorflow as tf
