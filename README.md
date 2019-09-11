@@ -1,1 +1,1 @@
-# hamidreza
+import numpy as np
